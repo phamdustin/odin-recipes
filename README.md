@@ -1,2 +1,2 @@
 # odin-recipes
-small project just learning HTML
+Small project for just learning HTML
